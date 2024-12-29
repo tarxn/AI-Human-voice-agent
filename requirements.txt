@@ -1,0 +1,9 @@
+docarray 
+jina 
+bitsandbytes 
+accelerate 
+transformers
+moshi
+moshi_mlx
+gradio
+huggingface-hub==0.24
